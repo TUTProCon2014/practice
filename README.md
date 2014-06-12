@@ -9,3 +9,6 @@ Git/GitHubとかの練習用リポジトリです。
 [Wikiを見る](https://github.com/TUTProCon2014/practice/wiki)
 
 LinuxからのGitHubへのpushのテストです。
+
+ｊｆかｊｆｋｌｊさｋｌｆじゃ
+ｆｊｋぁｊｋぁｇ
