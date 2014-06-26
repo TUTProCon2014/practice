@@ -10,4 +10,7 @@ Git/GitHubとかの練習用リポジトリです。
 
 LinuxからのGitHubへのpushのテストです。
 
-windowsからのGitHubへのpushテストです。
+ｊｆかｊｆｋｌｊさｋｌｆじゃ
+ｆｊｋぁｊｋぁｇ
+
+変更しました。
